@@ -354,7 +354,7 @@ namespace Assignment1_Summer2021
         private static string MergeAlternately(string w1, string w2)
     
 /* <logic>
-/// logic: i have created empty string, while looping through the word 1 and word2, we will append first letter from word1 and next will append next letter from word2
+/// logic: With an empty string, while looping through the word 1 and word2, we will append first letter from word1 and next will append next letter from word2
 /// if len(word1)>len(word2), the remaining elements of word1 are append last to the string
 /// */
 
